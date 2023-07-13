@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 
+![header](https://capsule-render.vercel.app/api?type=transparent)
 ![jeahak7780's GitHub stats](https://github-readme-stats.vercel.app/api?username=wogkr7780&show_icons=true&theme=chartreuse-dark)
 
 - 🔭 I’m currently working on ...
